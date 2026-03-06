@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\CustomerController;
+use App\Http\Controllers\
 use App\Http\Controllers\InquiryController;
 use App\Http\Controllers\QuotationController;
 use App\Http\Controllers\SaleOrderController;
